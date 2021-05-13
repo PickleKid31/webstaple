@@ -4,12 +4,13 @@ html {
 }
 body {
   background-color: white;
-  border: 20px solid gray;
+  border: 10px solid gray;
   margin-left: 24px;
   margin-right: 24px;
   margin-top: 24px;
   margin-bottom: 24px;
   text-align: center;
+  border-radius: 10px;
 }
 nav ul {
   list-style-type: none;
