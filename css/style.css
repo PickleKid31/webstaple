@@ -11,4 +11,25 @@ body {
   margin-bottom: 24px;
   text-align: center;
 {
-kjhgkh
+nav ul {
+  list-style-type: none;
+  background-color: black;
+  border: 6px solid lightgray;
+  border-radius: 10px;
+  font-family: comic sans MS;
+  font-weight: bold;
+  padding: 16px;
+}
+nav ul li {
+  display: inline;
+  border-right: 2px solid white;
+  padding-right: 8px;
+  padding-left: 8px;
+}
+nav ul li:last-child {
+  border-right: none;
+}
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
