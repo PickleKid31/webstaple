@@ -33,9 +33,13 @@ h1 {
   font-size: 40px;
   text-align: none;
   font-family: permanent marker;
+  color: white;
 }
 audio {
   border: 4px solid black;
   background-color: blue;
+  color: white;
+}
+h2 {
   color: white;
 }
