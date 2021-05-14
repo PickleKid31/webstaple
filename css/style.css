@@ -36,3 +36,8 @@ article {
   margin-bottom: auto;
   background-color: white;
 }
+h1 {
+  font-size: 40px;
+  text-align: none;
+  font-family: permanent marker;
+}
