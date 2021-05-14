@@ -9,7 +9,6 @@ nav ul {
   font-weight: bold;
   padding: 16px;
   margin: 0px;
-  border-radius: 9px;
   margin-bottom: auto;
 }
 nav ul li {
@@ -30,8 +29,6 @@ game {
   border-radius: 10px;
 }
 article {
-  border: 5px solid gray;
-  border-radius: 10px;
   padding: 24px;
   margin-top: auto;
   margin-left: auto;
