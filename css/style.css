@@ -5,7 +5,7 @@ html {
 }
 nav ul {
   list-style-type: none;
-  background-color: black;
+  background-color: rgb(193, 248, 255);
   font-family: comic sans MS;
   font-weight: bold;
   padding: 16px;
