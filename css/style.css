@@ -10,6 +10,7 @@ nav ul {
   padding: 16px;
   margin: 0px;
   border-radius: 9px;
+  margin-bottom: auto;
 }
 nav ul li {
   display: inline;
