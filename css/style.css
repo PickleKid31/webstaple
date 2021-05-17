@@ -59,5 +59,6 @@ section {
   margin-right: 48px;
 }
 .logo {
-  size: 70px 60px;
+  width: 70px;
+  height: 60px;
 }
