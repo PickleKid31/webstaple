@@ -50,6 +50,8 @@ section {
   border-radius: 24px;
   text-align: center;
   padding: 24px;
-  margin: auto;
-  max-width: 250px;
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
 }
