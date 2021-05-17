@@ -51,4 +51,5 @@ bukmarklet {
   text-align: center;
   padding: 24px;
   margin: auto;
+  max-width: 250px;
 }
