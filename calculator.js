@@ -1,0 +1,1 @@
+javascript:(function()%7Bjavascript%3Aeval('function calc()%7B_o%3Dprompt(_t%2C_z)%3Bif(_o!%3D%5C'%5C'%26%26_o!%3Dnull%26%26_o.toUpperCase()%3D%3D_o.toLowerCase())_z%3Deval(_o)%3B%7D')%3B_t%3D'Oliver Kramer Calculator Hack - Input the expression to be calculated%3A'%3B_z%3D''%3Bcalc()%3Bwhile(_o!%3D''%26%26_o!%3Dnull%26%26_o.toUpperCase()%3D%3D_o.toLowerCase())calc()%7D)()%3B
