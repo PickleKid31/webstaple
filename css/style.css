@@ -2,6 +2,7 @@ html {
   background-image: url("https://cent.imgix.net/aa71853a-ef16-458c-9a05-28ad1f86732c.gif?");
   background-size: 1500px 900px;
   text-align: center;
+  margin: auto;
 }
 nav ul {
   list-style-type: none;
