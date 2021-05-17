@@ -12,6 +12,7 @@ nav ul {
   padding: 16px;
   margin: 0px;
   margin-bottom: auto;
+  max-width: 50px;
 }
 nav ul li {
   display: inline;
