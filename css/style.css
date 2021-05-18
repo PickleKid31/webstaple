@@ -62,14 +62,15 @@ section {
   width: 200px;
   height: 120px;
   text-align: left;
-  float: right;
+  float: left;
 }
 header h1 {
   text-align: right;
-  float: left;
+  float: right;
 }
 header {
   background-color: black;
   color: white;
   padding: 10px;
+  max-height: 250px;
 }
