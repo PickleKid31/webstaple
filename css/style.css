@@ -62,9 +62,11 @@ section {
   width: 200px;
   height: 120px;
   text-align: left;
+  float: right;
 }
 header h1 {
-  text-align: left;
+  text-align: right;
+  float: left;
 }
 header {
   background-color: black;
