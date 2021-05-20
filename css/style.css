@@ -1,12 +1,11 @@
 html {
   background-image: url("https://cent.imgix.net/aa71853a-ef16-458c-9a05-28ad1f86732c.gif?");
-  background-size: 1500px 900px;
-  text-align: center;
+  background-size: 1500px 1100px;
   margin: auto;
+  text-align: center;
 }
 nav ul {
   list-style-type: none;
-  background-color: rgb(193, 248, 255);
   font-family: comic sans MS;
   font-weight: bold;
   padding: 16px;
@@ -17,7 +16,7 @@ nav ul {
 }
 nav ul li {
   display: inline;
-  border-right: 2px solid black;
+  border-right: 2px solid white;
   padding-right: 8px;
   padding-left: 8px;
 }
@@ -27,9 +26,12 @@ nav ul li:last-child {
 nav ul li a {
   text-decoration: none;
   color: black;
+  padding: 8px;
+  background-color: white;
+  border-radius: 10px;
 }
 nav ul li a:hover {
-  font-size: 20px;
+  background-color: rgb(226, 225, 225);
   text-decoration: underline;
 }
 h1 {
@@ -40,8 +42,10 @@ h1 {
 }
 audio {
   border: 4px solid black;
+  border-radius: 15px;
   background-color: blue;
   color: white;
+  padding: 10px;
 }
 h2 {
   color: white;
@@ -68,7 +72,6 @@ header h1 {
   float: right;
 }
 header {
-  background-color: black;
   color: white;
   padding: 10px;
   max-height: 250px;
@@ -78,10 +81,35 @@ p {
   font-family: pangolin;
 }
 aside {
-  float: left;
   padding: 24px;
+  padding-top: 0px;
   width: 34%;
-  background-color: lightseagreen;
+  color: black;
   border-radius: 18px;
+  margin-right: 24px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  float: right;
+  text-decoration: black;
+}
+article {
+  width: 56%;
+  padding: 0px;
+  float: left;
   margin: 24px;
+  margin-right: 0px;
+  border-radius: 18px;
+}
+aside a {
+  background-color: lightblue;
+  border: 10px black;
+  border-radius: 24px;
+  text-align: center;
+  padding: 24px;
+  text-decoration: none;
+  display: inline-block;
+  margin: 18px;
+}
+aside a:hover {
+  background-color: rgb(123, 123, 253);
 }
